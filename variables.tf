@@ -1,6 +1,6 @@
 variable "namespace" {
-  description = "Teste Vortx"
-  default     = "teste-vortx"
+  description = "Teste"
+  default     = "teste"
   type        = string
 }
 
